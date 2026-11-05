@@ -4,6 +4,8 @@ A dark [Omarchy](https://omarchy.org) theme of crusader-era Christendom, centred
 Forged iron, bone, and tarnished gold, with wallpapers drawn from Byzantine mosaics, crusader-era
 paintings, Gothic glass, and the arms of the Kingdom of Jerusalem.
 
+![Reconquista](preview.png)
+
 ## Install
 
 ```bash
