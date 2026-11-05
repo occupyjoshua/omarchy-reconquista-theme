@@ -1,0 +1,35 @@
+# Reconquista — forged iron, bone, and tarnished gold.
+mode = "dark"
+
+accent = "#b8923a"
+selection = "#3a1f1c"
+muted = "#64676c"
+
+background = "#121314"
+dark_background = "#0e0f10"
+darker_background = "#0a0a0b"
+lighter_background = "#1b1c1e"
+
+foreground = "#d8cfbd"
+dark_foreground = "#64676c"
+light_foreground = "#a8a08f"
+bright_foreground = "#ece4d4"
+
+hyprland_active_border = "rgba(9e2b25ee) rgba(b8923aee) 45deg"
+hyprland_inactive_border = "rgba(2c2d30aa)"
+
+red = "#c4554a"
+green = "#a39a5c"
+yellow = "#c9a14a"
+blue = "#8c8a82"
+magenta = "#b46d59"
+cyan = "#b3a68a"
+orange = "#c27a3c"
+brown = "#6b4a2b"
+
+bright_red = "#d66a5c"
+bright_green = "#bdb478"
+bright_yellow = "#dcb867"
+bright_blue = "#a6a49c"
+bright_magenta = "#c07a66"
+bright_cyan = "#cdc0a2"
